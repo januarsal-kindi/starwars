@@ -1,0 +1,41 @@
+.vertical-line {
+    border-left:thick solid  red;
+    height: 100%;
+    padding-left: 10px;
+}
+
+.container .inverted {
+    margin-top: 2em;
+    background: #1b1c1d;
+    color: white;
+}
+
+.profile {
+    padding-top : 2px!important;
+    padding-bottom : 2px!important;
+
+}
+.container-profile {
+    padding-top: 14px!important;
+    padding-bottom: 14px!important;
+
+}
+
+.header-film {
+    margin-top: 3em;
+    height: 60vh;
+    background-image:url(../../assets/image/movie-large.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    color: white;
+}
+
+.header-title{
+   color: white!important;
+   margin: 20px!important;
+}
+
+.row-title{
+    padding-top: 25%
+}
+

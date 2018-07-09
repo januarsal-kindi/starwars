@@ -1,0 +1,44 @@
+.cards{
+    padding-left: 0px!important;
+    padding-right: 0px!important;
+
+}
+
+.wide .column{
+    padding-left: 0px!important;
+    padding-right: 0px!important;
+}
+.header-card {
+    font-weight: 700;
+    font-size: 1em;
+    margin-top: -.21425em;
+    line-height: 1.28571429em;
+}
+
+.description-card{
+    font-size: 1em;
+    margin-top:  .5em;
+}
+
+
+.relatedCard {
+    background: #1b1c1d;
+    height: 120px;
+    color: white;
+    padding: 10px 5px 10px 15px; 
+}
+
+.header-container{
+    padding-bottom: 0px!important;
+    margin-bottom: -20px!important;
+}
+.realted-detail{
+        
+    padding-top : 0px!important;
+    padding-bottom : 0px!important;
+    padding-left: 10px!important;
+    padding-right: 10px!important;
+
+    font-size: .7em;
+    
+}
