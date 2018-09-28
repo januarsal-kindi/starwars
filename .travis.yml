@@ -5,7 +5,7 @@ node_js:
 
 addons:
   sonarcloud:
-    organization: "github"
+    organization: "januarsal-kindi-github"
     token:
       secure: "4c4919b95f2a54868437e2587cdc3a8a3c9ea3df"
       
