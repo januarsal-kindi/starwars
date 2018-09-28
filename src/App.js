@@ -14,8 +14,6 @@ class App extends Component {
           <Route path="/" exact component={HomeContainer} />
           <Route path="/film/:id"  component={FilmContainer} />
           <Route path="/people/:id" component={HomeContainer} />
-
-
         </Switch>
       </Layout>
     );
